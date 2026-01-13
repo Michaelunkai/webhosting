@@ -16,3 +16,5 @@ This repository contains web hosting configuration and deployment files.
 Sync marker: WEBHOSTING-SYNC-20260113-115000-UTC
 
 <!-- gitit-sync: 2026-01-13 11:57:24.208879 -->
+
+<!-- gitit-sync: 2026-01-13 12:23:49.545598 -->
